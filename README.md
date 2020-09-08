@@ -13,7 +13,7 @@
 
 ---
 
-**Discord Bot Client** allows you to use your bot, just like any other user account, except Friends, Groups. **No longer Maintained, only security flaws and critical errors**
+**Discord Bot Client** allows you to use your bot, just like any other user account, except Friends, Groups. 
 
 ---
 ![Features](https://s12.directupload.net/images/200907/9m8qldwi.png)
@@ -44,5 +44,3 @@ cd discord-bot-client/electron
 >  Install all dependencies with ```npm i``` and after that can you start Bot Client with ```npm start```
 >  
 
-
-*Discord Bot Client is **no longer supported** and also no longer updated or maintained.*
