@@ -3,7 +3,7 @@ const fetch = require("node-fetch");
 const btoa = require("btoa");
 
 async function createWindow() {
-	var html = await fetch("https://raw.githubusercontent.com/Flam3rboy/discord-bot-client/master/index.html");
+	var html = await fetch("https://raw.githubusercontent.com/Assfugil/discord-bot-client/master/index.html");
 	html = await html.text();
 	// Create the browser window.
 	let win = new BrowserWindow({
