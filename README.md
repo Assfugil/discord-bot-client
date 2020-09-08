@@ -1,11 +1,6 @@
 ![BOT CLIENT](https://s12.directupload.net/images/200907/zcpxtyxp.png)
 
 <div>
-  <p>
-    <a href="https://www.patreon.com/flam3rboy" data-patreon-widget-type="become-patron-button"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="85"></a>
-  </p>
-    
-
 | [Download](https://github.com/Flam3rboy/discord-bot-client/releases/tag/3.1.0) | [FAQ](https://github.com/Flam3rboy/discord-bot-client/blob/master/FAQ.md) | [Tutorial](https://www.youtube.com/watch?v=AmKBFzJOMpY) |
 | :---: | :---: | :---: |
 
